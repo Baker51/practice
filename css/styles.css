@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body {
+	
+	background-color: black;
+}
+.nav {
+    background-color: rgba(198,227,23,1.00);
+}
+.header {
+    background-color: rgba(231,6,9,1.00);
+    margin-top: 18px;
+    padding-top: 182px;
+}
+.main {
+    margin-top: 14px;
+    background-color: rgba(217,238,30,1.00);
+    padding-top: 164px;
+}
+.footer {
+    background-color: rgba(13,227,126,1.00);
+    margin-top: 13px;
+    padding-top: 121px;
+}
